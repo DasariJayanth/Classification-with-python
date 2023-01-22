@@ -1,6 +1,6 @@
 # Loan_Status_Classification-with-python
   
-The Loan_train.csv and Loan_test.csv files are created directly by downloading from the links mentioned. The links to the datasets can be found in cells of notebook.
+Loan_train.csv and Loan_test.csv files are directly downloaded from the links mentioned in the cells of notebook.
   
 Perfromed Data Cleaning, Feature Selection/Extraction, Converting Categorical to Numerical values, One Hot encoding, Normailzed data, Train-Test-Split the data and   
 Build different classifier models to predict whether a loan case is paid off or not from features like education, due_date, effective_date etc., and calculated accuracy of the built model using different evaluation metrics.    
